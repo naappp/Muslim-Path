@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "515284879500",
+    "firebase_url": "https://muslimpathapi-default-rtdb.firebaseio.com",
+    "project_id": "muslimpathapi",
+    "storage_bucket": "muslimpathapi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:515284879500:android:d9a1e907c6807b6e5353a9",
+        "android_client_info": {
+          "package_name": "com.example.coba"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvLwjuTiLAPAkAt5fBSfvZr98Jn_k6y4s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

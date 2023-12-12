@@ -1,3 +1,4 @@
+import 'package:coba/login.dart';
 import 'package:coba/screen/kategori.dart';
 import 'package:flutter/material.dart';
 
@@ -62,7 +63,7 @@ class HomePage extends StatelessWidget {
                   onPressed: () {
                     Navigator.push(
                       context,
-                      MaterialPageRoute(builder: (context) => KategoriPage()),
+                      MaterialPageRoute(builder: (context) => Login()),
                     );
                   },
                   style: ElevatedButton.styleFrom(
